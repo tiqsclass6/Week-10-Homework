@@ -24,24 +24,24 @@ echo "
 <!doctype html>
 <html lang="en" class="h-100">
 <head>
-<title>Details for EC2 instance</title>
-<body background=https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D>
+<title>Unsecure 80 - Load Balancer</title>
+<body background=https://brazil-2025.s3.us-east-1.amazonaws.com/brazil-bg.jpg>
 </head>
 <div>
 <font color="ffffff">
-<h1>Class 6 is Secure</h1>
-<h1>In Southeast Asia with these Beauties</h1>
+<h1>AWS Instance Details</h1>
+<h1>Theo's Brazilian Blondes</h1>
 </font>
 <br>
 <table width=100%>
 <tr>
 <td width=100% align="left">
-<img src="https://cdn.coconuts.co/coconuts/wp-content/uploads/2019/09/24879744_10208828270738785_4906269658246515610_o.jpg" alt="Thai Models" width="50%" height="50%">
+<img src="https://brazil-2025.s3.us-east-1.amazonaws.com/brazil4.jpg">
 </td>
 </tr>
 <tr>
 <td width=100% align="left">
-<img src="https://i.imgur.com/vhpjPDr.jpeg" alt="Sexy Japanese Ladies" width="50%" height="50%">
+<img src="https://brazil-2025.s3.us-east-1.amazonaws.com/brazil2.jpg" width="40%" height="40%">
 </td>
 </tr>
 </table>

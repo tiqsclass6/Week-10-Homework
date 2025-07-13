@@ -24,24 +24,24 @@ echo "
 <!doctype html>
 <html lang="en" class="h-100">
 <head>
-<title>Details for EC2 instance</title>
-<body background=https://img.freepik.com/premium-photo/flag-wallpaper-brazil_670382-35283.jpg>
+<title>Secure 443 - Load Balancer</title>
+<body background=https://japan-2025.s3.us-east-1.amazonaws.com/japan-bg.jpg>
 </head>
 <div>
 <font color="ffffff">
-<h1>AWS Instance Details</h1>
-<h1>Theo's Brazilian Blondes</h1>
+<h1>Class 6 is Secure</h1>
+<h1>In Southeast Asia with these Beauties</h1>
 </font>
 <br>
 <table width=100%>
 <tr>
 <td width=100% align="left">
-<img src="https://www.sanclerfrantz.com.br/extranet/gallery/50.jpg" alt="Samurai Katana" width="40%" height="40%">
+<img src="https://japan-2025.s3.us-east-1.amazonaws.com/japan1.jpg" width="50%" height="50%">
 </td>
 </tr>
 <tr>
 <td width=100% align="left">
-<img src="https://images3.imgbox.com/41/12/sIUUCRwA_o.jpg" alt="Sexy Brazilian Blonde" width="40%" height="40%">
+<img src="https://japan-2025.s3.us-east-1.amazonaws.com/japan3.jpg" width="50%" height="50%">
 </td>
 </tr>
 </table>
