@@ -73,7 +73,7 @@ echo "
 
       .details {
         font-size: 1.125rem; /* ~18px */
-        text-align: left;
+        text-align: center;
         width: min(800px, 92%);
         margin: 24px auto 0;
         background: rgba(0, 0, 0, 0.5);

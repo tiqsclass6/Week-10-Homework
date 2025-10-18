@@ -50,7 +50,7 @@ echo "
       }
       .details {
         font-size: 1.2em;
-        text-align: left;
+        text-align: center;
         width: 60%;
         margin: 30px auto;
         background: rgba(0, 0, 0, 0.5);
